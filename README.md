@@ -1,2 +1,2 @@
 # SFMC Testing
- Repo With Python Scripts to Help Test Salesforce Marketing Cloud
+ Repo With Scripts to Help Test Salesforce Marketing Cloud in Python, C# and Ruby
